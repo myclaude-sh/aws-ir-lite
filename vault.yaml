@@ -1,0 +1,18 @@
+name: aws-ir-lite
+version: 1.0.1
+type: skill
+description: "Free GuardDuty triage: paste a finding, get a verdict, false-positive checks, MITRE ATT&CK mapping and read-only next steps. No AWS access needed."
+price: 0
+license: MIT
+entry: SKILL.md
+tags:
+  - aws
+  - security
+  - incident-response
+  - guardduty
+  - cloudtrail
+  - dfir
+  - soc
+  - mitre-attack
+  - iam
+  - cloud-security
